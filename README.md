@@ -37,11 +37,11 @@ Sometimes, the downloading process gets stuck. To overcome this, you can add a l
 If you use this project as part of your academic studies, please kindly cite the below article:
 
 ```
-@article{kollnig2021_iphone_android,
+@article{kollnig2022_iphone_android,
       title={Are iPhones Really Better for Privacy? A Comparative Study of iOS and Android Apps}, 
       author={Konrad Kollnig and Anastasia Shuba and Reuben Binns and Max {Van Kleek} and Nigel Shadbolt},
-      year={2021},
-      journal={arXiv preprint arXiv:2109.13722}
+      year={2022},
+      journal={Proceedings on Privacy Enhancing Technologies}
 }
 ```
 
