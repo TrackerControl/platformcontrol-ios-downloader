@@ -2,6 +2,8 @@
 
 *This project is part of PlatformControl: <https://github.com/OxfordHCC/PlatformControl>*
 
+**Update: After our study, [a new tool](https://github.com/majd/ipatool) was released that makes downloading iOS apps even easier.**
+
 This project helps you to download iOS apps at scale.
 
 This is accomplished by an AutoHotkey script that clicks 'Download' in the iTunes Windows application for a list of apps.
