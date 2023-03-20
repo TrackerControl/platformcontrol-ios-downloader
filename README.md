@@ -1,6 +1,6 @@
 # PlatformControl App Store Downloader
 
-*This project is part of PlatformControl: <https://github.com/OxfordHCC/PlatformControl>*
+*This project is part of PlatformControl: <https://github.com/TrackerControl/PlatformControl>*
 
 **Update: After our study, [a new tool](https://github.com/majd/ipatool) was released that makes downloading iOS apps even easier.**
 
